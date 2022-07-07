@@ -20,4 +20,4 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2.4.2
     - name: Build and Deploy
-      uses: neko2048/theTrailLog@v1.0.1
+      uses: onejar99/gitbook-build-publish-action@v1.0.2 
