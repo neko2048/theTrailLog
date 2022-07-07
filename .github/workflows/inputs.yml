@@ -1,0 +1,2 @@
+with: 
+  secret_input: ${{ secrets.GH_ACCESS_TOKEN }}
